@@ -9,8 +9,8 @@ export default function Login() {
           <div className="w-32 text-white md:w-36">
             <AcmeLogo />
           </div>
-          <LoginForm />
         </div>
+        <LoginForm />
       </div>
     </main>
   );
